@@ -14,7 +14,7 @@
 <font size=4 >
 
 <video id="video" controls="" preload="none" >
-    <source id="mp4" src="https://github.com/cyxblog/RecyclerViewDemo/RecyclerView.mp4" type="video/mp4">
+    <source id="mp4" src="https://github.com/cyxblog/RecyclerViewDemo/blob/master/RecyclerView.mp4" type="video/mp4">
 </video>
 
 + 设置RecyclerView样式为列表布局，并设置垂直或水平布局
