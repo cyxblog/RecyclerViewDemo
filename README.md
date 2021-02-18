@@ -1,11 +1,5 @@
 # RecyclerViewDemo
 安卓开发的RecyclerView部分
-
----
-title: 安卓开发——RecyclerView
-date: 2021-02-18 20:53:44
-tags: [Android, RecyclerView, ListView, GridView, 瀑布流]
----
 # 1 RecyclerView简介
 <font size=4 > [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview)是Android开发中强大的控件，可以实现ListView、GridView以及StaggeredView（瀑布流），并支持垂直滚动和水平滚动两种方式。
 本文介绍这三种View的垂直和水平滚动实现方法。</font>
