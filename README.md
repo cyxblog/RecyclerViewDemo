@@ -295,3 +295,4 @@ public class MultiTypeAdapter extends RecyclerView.Adapter {
 </font>
 
 ## 完整代码见[github](https://github.com/cyxblog/RecyclerViewDemo)
+## 视频及讲解见[博客](https://cyxblog.github.io/2021/02/18/Android-RecyclerView-Demo/)
